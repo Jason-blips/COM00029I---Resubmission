@@ -6,8 +6,15 @@
 
 ## English
 
+### Course Information
+- **Institution:** University of York
+- **Module Code:** COM00029I
+- **Module Title:** Systems & Devices 2: Operating Systems, Security and Networking
+- **Academic Year:** 2025/2026
+- **Student ID:** zxn515
+
 ### Overview
-This repository organizes SYS2 assessed materials and submissions in one place for review, revision, and long-term tracking.
+This repository organizes assessed materials and submissions for the University of York module **COM00029I Systems & Devices 2: Operating Systems, Security and Networking**, in one place for review, revision, and long-term tracking.
 
 It currently includes:
 - **Assessed Questions:** `Q1` to `Q9` as PDF files.
@@ -15,6 +22,7 @@ It currently includes:
 - **Feedback Notes:** Marker comments in `feedback.md`.
 
 ### Quick Navigation
+- [Course Information](#course-information)
 - [Repository Structure](#repository-structure)
 - [Question Index](#question-index)
 - [How to Use](#how-to-use)
@@ -94,8 +102,15 @@ cd "SYS2 Re"
 
 ## 中文说明
 
+### 课程信息
+- **学校：** University of York
+- **课程代码：** COM00029I
+- **课程名称：** Systems & Devices 2: Operating Systems, Security and Networking
+- **学年：** 2025/2026
+- **学号：** zxn515
+
 ### 项目简介
-本仓库用于集中整理 SYS2 的测评题目、提交文件和批改反馈，便于复习、归档和持续改进。
+本仓库用于集中整理 University of York 课程 **COM00029I Systems & Devices 2: Operating Systems, Security and Networking** 的测评题目、提交文件和批改反馈，便于复习、归档和持续改进。
 
 当前内容包括：
 - **Assessed Questions：** `Q1` 到 `Q9` 的题目 PDF；
@@ -103,6 +118,7 @@ cd "SYS2 Re"
 - **feedback.md：** 批改意见汇总。
 
 ### 快速导航
+- [课程信息](#课程信息)
 - [仓库结构](#仓库结构)
 - [题号索引](#题号索引)
 - [使用方法](#使用方法)
