@@ -20,10 +20,12 @@ It currently includes:
 - **Assessed Questions:** `Q1` to `Q9` as PDF files.
 - **Coursework Packages:** `Q1` to `Q9` as ZIP archives.
 - **Feedback Notes:** Marker comments in `feedback.md`.
+- **Resubmission Log:** Progress tracking in [`RESUBMISSION_LOG.md`](RESUBMISSION_LOG.md).
 
 ### Quick Navigation
 - [Course Information](#course-information)
 - [Repository Structure](#repository-structure)
+- [Resubmission Log](#resubmission-log)
 - [Question Index](#question-index)
 - [How to Use](#how-to-use)
 - [Recommended Workflow](#recommended-workflow)
@@ -44,8 +46,12 @@ SYS2 Re/
 │  ├─ ...
 │  └─ Q9.zip
 ├─ feedback.md
+├─ RESUBMISSION_LOG.md
 └─ README.md
 ```
+
+### Resubmission Log
+Resubmission progress is recorded by date in [`RESUBMISSION_LOG.md`](RESUBMISSION_LOG.md). Open that file to see current status, next actions, and future updates.
 
 ### Question Index
 | Question | Paper | Submission | Review Notes |
@@ -114,11 +120,13 @@ cd "SYS2 Re"
 当前内容包括：
 - **Assessed Questions：** `Q1` 到 `Q9` 的题目 PDF；
 - **Coursework：** `Q1` 到 `Q9` 的提交 ZIP；
-- **feedback.md：** 批改意见汇总。
+- **feedback.md：** 批改意见汇总；
+- **重提交流程日志：** [`RESUBMISSION_LOG.md`](RESUBMISSION_LOG.md) 中按日期记录进度。
 
 ### 快速导航
 - [课程信息](#课程信息)
 - [仓库结构](#仓库结构)
+- [重提交流程日志](#重提交流程日志)
 - [题号索引](#题号索引)
 - [使用方法](#使用方法)
 - [推荐复习流程](#推荐复习流程)
@@ -139,8 +147,12 @@ SYS2 Re/
 │  ├─ ...
 │  └─ Q9.zip
 ├─ feedback.md
+├─ RESUBMISSION_LOG.md
 └─ README.md
 ```
+
+### 重提交流程日志
+重提交流程按日期记录在 [`RESUBMISSION_LOG.md`](RESUBMISSION_LOG.md)，可查看当前状态、待办与后续更新。
 
 ### 题号索引
 | 题号 | 题目文件 | 提交文件 | 复盘位置 |
