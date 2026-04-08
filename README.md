@@ -94,9 +94,8 @@ cd "SYS2 Re"
 - Avoid committing extracted temporary folders unless they are intentionally organized for revision.
 
 ### Disclaimer
-- This repository is a personal study and review collection.
-- Course materials remain the property of the original teaching institution and staff.
-- Use all content in accordance with your course academic integrity policy.
+- This repository is an **unofficial** project and is not affiliated with or endorsed by the University of York or the COM00029I teaching team.
+- All course materials and content are property of the University of York COM00029I teaching team, and are provided here for **personal learning and practice** only. Please follow academic integrity policies.
 
 ---
 
@@ -190,6 +189,5 @@ cd "SYS2 Re"
 - 非必要情况下，不建议提交临时解压目录，避免仓库变杂。
 
 ### 免责声明
-- 本仓库仅用于个人学习与复习。
-- 课程题目及相关材料版权归原课程教学团队所有。
-- 请严格遵守课程学术诚信规范。
+- 本仓库为 **非官方** 项目，与 University of York 及 COM00029I 教学团队无关。
+- 所有课程内容版权归 University of York COM00029I 教学团队所有，仅供 **个人学习和练习** 使用，请遵守学术诚信规定。
