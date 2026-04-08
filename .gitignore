@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Python cache (in case extracted coursework includes Python files)
+__pycache__/
+*.py[cod]
+
+# Logs and temp files
+*.log
+*.cache
+temp/
+tmp/
+
+# Common extracted coursework folders
+Coursework/Q1/
+Coursework/Q2/
+Coursework/Q3/
+Coursework/Q4/
+Coursework/Q5/
+Coursework/Q6/
+Coursework/Q7/
+Coursework/Q8/
+Coursework/Q9/
+
+# Generic extraction artifacts
+Coursework/**/*.bak
+Coursework/**/*.old
